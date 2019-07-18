@@ -1,4 +1,5 @@
-# flows
+# Flows
+A workspace automation tool that opens up your favorite tabs. 
 
 # To Run
 - download automator
